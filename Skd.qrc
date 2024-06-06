@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Skd">
+        <file>data/skd.gif</file>
+        <file>data/icon.jpg</file>
+    </qresource>
+</RCC>
