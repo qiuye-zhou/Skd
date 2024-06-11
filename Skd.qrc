@@ -2,5 +2,6 @@
     <qresource prefix="/Skd">
         <file>data/skd.gif</file>
         <file>data/icon.jpg</file>
+        <file>exe_icon.ico</file>
     </qresource>
 </RCC>
